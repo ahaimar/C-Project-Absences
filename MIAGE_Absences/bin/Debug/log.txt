@@ -1,0 +1,10 @@
+Duplicate entry '0015' for key 'PRIMARY'
+
+16/01/2024 00:00:00  :  Duplicate entry '002' for key 'PRIMARY'
+
+16/01/2024 00:00:00  :  Duplicate entry '002' for key 'PRIMARY'
+
+16/01/2024 20:11:14  :  Une exception s'est produite lors d'une demande WebClient.
+
+16/01/2024 20:11:14  :  Duplicate entry 'M01' for key 'PRIMARY'
+

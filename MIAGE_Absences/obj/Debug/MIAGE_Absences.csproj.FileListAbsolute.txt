@@ -1,0 +1,30 @@
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\bin\Debug\MIAGE_Absences.exe
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\bin\Debug\MIAGE_Absences.pdb
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\ResolveAssemblyReference.cache
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form1.resources
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Properties.Resources.resources
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.csproj.GenerateResource.Cache
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.exe
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.pdb
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form2.resources
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form3.resources
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form4.resources
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form5.resources
+G:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form6.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.exe
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.pdb
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\bin\Debug\MIAGE_Absences.exe
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\bin\Debug\MIAGE_Absences.pdb
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\ResolveAssemblyReference.cache
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form1.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form2.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form3.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form4.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form5.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Form6.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.Properties.Resources.resources
+D:\MIAGE\clientserver\C#\TS2 DI CJ\MySQL\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.csproj.GenerateResource.Cache
+D:\TS _ 2émé\Programation client_server\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.exe
+D:\TS _ 2émé\Programation client_server\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.pdb
+C:\Users\Achraf\Desktop\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.exe
+C:\Users\Achraf\Desktop\MIAGE_Absences\MIAGE_Absences\obj\Debug\MIAGE_Absences.pdb
